@@ -92,5 +92,3 @@ Estoy compartiendo más proyectos sobre IA local, automatización y agentes inte
 ---
 
 **¡Construyamos una IA útil, cercana y bajo nuestro control!**
-
-```
