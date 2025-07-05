@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+langchain>=0.1.13
+langchain-community>=0.0.26
+langchain-core>=0.1.30
+langchain-ollama>=0.0.4
+ollama>=0.1.7
